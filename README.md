@@ -21,7 +21,7 @@ My focus as a Data Analyst is on building interactive dashboards, validating sta
 When I'm not writing SQL queries or building visual reports, I enjoy organizing events and managing teams, having previously led student development programs focused on sports and arts at my university. I love the "aha!" moment when raw data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://depanloo.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
