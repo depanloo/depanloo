@@ -60,3 +60,25 @@ When I'm not writing SQL queries or building visual reports, I enjoy organizing 
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+#### Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Google%20Looker%20Studio-Expert-4285F4?style=flat&logo=google&logoColor=white" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/Excel%20Data%20Analysis-Certified-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Pandas%20%26%20NumPy-Proficient-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+</p>
+
+#### Programming & Database
+<p>
+  <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/PostgreSQL-Proficient-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+#### Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-Experienced-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/PyTorch-Experienced-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/NLTK%20(NLP)-Experienced-4ECDC4?style=flat" alt="NLP">
+</p>
