@@ -14,25 +14,25 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Data Science graduate from Institut Teknologi Sumatera, highly passionate about transforming complex, messy datasets into clear stories and actionable insights. 
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus as a Data Analyst is on building interactive dashboards, validating statistical datasets, and utilizing predictive modeling to help organizations make data-driven decisions. During my internship at the Central Bureau of Statistics (BPS), I contributed directly to the 2023 Agricultural Census by processing data and developing demographic dashboards using Google Looker Studio. 
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not writing SQL queries or building visual reports, I enjoy organizing events and managing teams, having previously led student development programs focused on sports and arts at my university. I love the "aha!" moment when raw data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Data Analytics & Dashboarding:** Building interactive demographic dashboards and statistical infographics to communicate data findings clearly.
+- **NLP & Sentiment Analysis:** Developing an NLP pipeline using TF-IDF and Logistic Regression to analyze 50,000+ Google Play reviews and extract user perception insights.
+- **Predictive Modeling:** Applying automated hyperparameter tuning (PSO) on Vision Transformers to achieve 97.97% test accuracy for medical image classification.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Deepening my expertise in Advanced Business Intelligence tools.
+- Exploring advanced statistical analysis for broader business applications.
 
 ## 🛠️ Technical Skillset
 
